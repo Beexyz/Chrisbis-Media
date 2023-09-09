@@ -1,9 +1,13 @@
 /* Login page-specific styles */
 header {
     background-color: #3498db;
-    padding: 20px; /* Padding for top and bottom */
+    padding: 22px; /* Padding for top and bottom */
     text-align: center; 
 }
+
+.decorative-text {
+    font-family: "elephant",sans-serif;
+    margin-left: 1100px}
 
 h1 {
     font-size: 36px; 
@@ -76,4 +80,8 @@ button[type="submit"] {
 
 button[type="submit"]:hover {
     background-color: #555;
+}
+img {
+    float: left;
+    margin-right: 10px;
 }
