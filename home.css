@@ -1,8 +1,12 @@
 /* CSS for the header section */
 header {
     background-color: #2290c4;
-    padding: 20px; /* Padding for top and bottom */
-    text-align: center; 
+    padding: 8px; /* Padding for top and bottom */
+}
+
+.decorative-text {
+    font-family: "elephant",sans-serif;
+    margin-left: 1100px
 }
 
 h1 {
