@@ -1,7 +1,7 @@
 /* About Us page-specific styles */
 header {
     background-color: #2290c4; 
-    padding: 20px; /* Padding for top and bottom */
+    padding: 22px; /* Padding for top and bottom */
     text-align: center; 
 }
 
@@ -30,3 +30,11 @@ nav a {
     text-decoration: none;
     color: black;
 }
+img {
+    float: left;
+    margin-right: 10px;
+}
+
+.decorative-text {
+    font-family: "elephant",sans-serif;
+    margin-left: 1100px}
